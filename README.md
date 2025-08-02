@@ -6,7 +6,7 @@ This repository contains all the scripts and documentation used in the developme
 
 ## Repository Structure
 
-- `/data/`: CMEMS Atlantic -Iberian Biscay Irish- Ocean Wave Reanalysis
+- data: CMEMS Atlantic -Iberian Biscay Irish- Ocean Wave Reanalysis
 
    Avaliable at: https://data.marine.copernicus.eu/product/IBI_MULTIYEAR_WAV_005_006/description
 - `/notebooks/`: Jupyter notebooks for data visualisation and model development, training, and evaluation
